@@ -2,3 +2,6 @@
 .exercism
 debug
 .rustc_info.json
+target
+**/*.rs.bk
+Cargo.lock
