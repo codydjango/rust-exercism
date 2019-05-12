@@ -1,1 +1,4 @@
 .DS_Store
+.exercism
+debug
+.rustc_info.json
